@@ -5,6 +5,4 @@ theme: jekyll-theme-minimal
 extra_css:
   - "assets/css/custom.css"
 
-  extra_css: "assets/css/custom.css" 
-  
   
