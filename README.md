@@ -51,8 +51,10 @@ Creating a common platform for the community and law enforcement agency was the 
 
 
 
-## Adv. GIS course final project
-- Work description
+# Adv. GIS Course - Final Project
+
+In this section, I have demostrated diffeent scripts that I have worked so far.
+
 - [adv. GIS repository](https://github.com/atarannum/Fetching_Online_Data_OSM.git)
 ---
 layout: default
