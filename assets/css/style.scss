@@ -1,8 +1,7 @@
 ---
 ---
 
-@import "jekyll-theme-minimal";
-export const nav = [
+@import export const nav = [
   {
     title: 'Home',
     slug: '/',
@@ -20,3 +19,4 @@ export const nav = [
     slug: '/company/contact',
   },
 ];
+
