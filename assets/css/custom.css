@@ -1,6 +1,6 @@
 img {
-  border-radius: 50%;
-  width: 200px;    /* Increase the size if it's too small */
-  height: 200px;
-  object-fit: cover;
+  border-radius: 50%;       /* This will make the image circular */
+  width: 150px;             /* Set the desired size (width) */
+  height: 150px;            /* Set the height equal to the width */
+  object-fit: cover;        /* This will ensure the image maintains its aspect ratio */
 }
