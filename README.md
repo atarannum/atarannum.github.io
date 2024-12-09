@@ -43,7 +43,7 @@ Creating a common platform for the community and law enforcement agency was the 
 # Work Experience
 - **Graduate Assistant** (_September, 2024 – Present_)
 
-- University of Memphis, Memphis, TN
+University of Memphis, Memphis, TN
   
 - **Intern Architect** (_May 2023 – August 2024_)
   
