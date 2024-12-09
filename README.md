@@ -142,27 +142,18 @@ end
 ---
 ### [CherryOnTree](CherryOnTree)
 
- <pre><code>&lt;div class="footer"&gt;
-    &amp;copy; 2004 Foo Corporation
-&lt;/div&gt;
-</code></pre>
-
-        <h2>Set in stone</h2>
-
-        <p>Preformatted blocks are useful for ASCII art:</p>
-
-        <pre>             ,-.
+                    ,-.
     ,     ,-.   ,-.
    / \   (   )-(   )
-   \ |  ,.&gt;-(   )-&lt;
+   \ |  ,.-(   );
     \|,' (   )-(   )
      Y ___`-'   `-'
      |/__/   `-'
      |
      |
-     |    -hrr-
+     |    
   ___|_____________
-</pre>
+
 
 ---
 
