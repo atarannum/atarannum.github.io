@@ -8,16 +8,14 @@ I was awared as runner-up at the American Planning Association Student Design Co
 
 ## Education
 
-|                                       |                             | Year               |
+|                                       |                             |                    |
 |:--------------------------------------|:----------------------------|:-------------------|
 | PhD in Urban Affairs                  | University of Memphis at TN | (_2024 – Present_) |
 | Master of City and Regional Planning  | University of Memphis at TN | (_2022 – 2024_)    |
 | Master of Urban and Regional Planning |  BUET at Dhaka              | (_2018 – 2022_)    | 
 | Bachelor of Architecture              | UAP at Dhaka                | (_2018 – 2022_)    |
 
----
 
----
 
 ## Research Experience
 ### **‘Night Life Reimagined – Designing Infill Module to Accommodate Positive Nightlife’**
