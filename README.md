@@ -106,7 +106,7 @@ In this section, I have demostrated diffeent scripts that I have worked so far. 
 
 [Adv. GIS Repository](https://github.com/atarannum/Adv.-GIS-Repository.git)
 
-
+---
 
 ### Highlights
 
@@ -125,6 +125,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
+---
 
 ## Projects
 
@@ -166,7 +167,9 @@ end
 
 ---
 
+### For more scripting visit
 
+[Adv. GIS Repository](https://github.com/atarannum/Adv.-GIS-Repository.git)
 
 
 ---
