@@ -40,6 +40,17 @@ This study, in brief, was undertaken to assess land suitability from a landslide
 
 Creating a common platform for the community and law enforcement agency was the primary focus of this project. The architectural design and function of the complex was designed in harmony with the existing natural environment.
 
+# Work Experience
+- **Graduate Assistant** (_September, 2024 – Present_)
+University of Memphis, Memphis, TN
+- **Intern Architect** (_May 2023 – August 2024_) 
+Self+Tucker Architects, Memphis, TN
+- **Graduate Assistant** (_September, 2022 – April, 2023_)
+University of Memphis, Memphis, TN
+- **Junior Architect** (_July, 2017 – May, 2019_)
+Tanya Karim N. R. Khan & Associates, Dhaka, Bangladesh 
+
+
 
 ## Adv. GIS course final project
 - Work description
