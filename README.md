@@ -55,7 +55,7 @@ Creating a common platform for the community and law enforcement agency was the 
 
 In this section, I have demostrated diffeent scripts that I have worked so far.
 
-- [adv. GIS repository](https://github.com/atarannum/Adv.-GIS-Repository.git)
+- [Adv. GIS Repository](https://github.com/atarannum/Adv.-GIS-Repository.git)
 ---
 layout: default
 ---
