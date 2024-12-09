@@ -70,6 +70,7 @@ Creating a common platform for the community and law enforcement agency was the 
 
 <div style="display: flex; gap: 20px;">
 
+ !-- First Column -->
   <div style="flex: 1; min-width: 150px;">
     * ArcGIS  
     * AutoCAD    
@@ -77,6 +78,7 @@ Creating a common platform for the community and law enforcement agency was the 
     * Python
   </div>
 
+  <!-- Second Column -->
   <div style="flex: 1; min-width: 150px;">
     * Adobe Photoshop  
     * Adobe Illustrator  
@@ -84,6 +86,7 @@ Creating a common platform for the community and law enforcement agency was the 
     * Microsoft Office    
   </div>
 
+   <!-- Third Column -->
   <div style="flex: 1; min-width: 150px;">
     * SketchUp  
     * Revit  
