@@ -66,7 +66,7 @@ Creating a common platform for the community and law enforcement agency was the 
 
 ---
 
-## Technical Skill
+## Technical Skills
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1; min-width: 150px;">
@@ -167,10 +167,14 @@ end
 
 ---
 
+---
+
 ### For more scripting, please visit
 
 [Adv. GIS Repository](https://github.com/atarannum/Adv.-GIS-Repository.git)
 
+
+---
 
 ---
 
