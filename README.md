@@ -185,8 +185,8 @@ The final element.
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Data Scraping from Open Street Map](/sample_page)
+<img src="Fetching_Online_Data_OSM.ipynb"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
