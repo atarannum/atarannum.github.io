@@ -1,4 +1,8 @@
 title: Afsana Tarannum
-logo: HEADSHOT.jpg
+logo: (HEADSHOT.jpg){: .circle-image }
 description: Doctoral Student | Urban Affairs 
 theme: jekyll-theme-minimal
+
+extra_css:
+  - "/assets/css/custom.css" 
+  
