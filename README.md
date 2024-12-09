@@ -2,8 +2,14 @@ Hello, my name is Afsana Tarannum. I am a doctoral student, studying Urban Affai
 
 I was awared as runner-up at the American Planning Association Student Design Competition in 2023 and also received the Outstanding Student Project Award from the Tennessee Chapter of the American Planning Association in 2023. My research interests are nightlife vitality, age-friendly development, and accessible public space.
 
-# atarannum.github.io
-# Project Title
+
+# Education
+- PhD in Urban Affairs | University of Memphis at TN (_2024 – Present_)
+- Master of City and Regional Planning | University of Memphis at TN (_2022 – 2024_)
+- Master of Urban and Regional Planning | Bangladesh University of Engineering and Technology (BUET) at Dhaka (_2018 – 2022_)
+- Bachelor of Architecture | University of Asia Pacific at Dhaka (_2011 – 2017_)
+
+
 ## Adv. GIS course final project
 - Work description
 - [adv. GIS repository](https://github.com/atarannum/Fetching_Online_Data_OSM.git)
