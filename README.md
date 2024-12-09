@@ -161,7 +161,7 @@ end
 
 - [Model Builder_New School Site](model_builder/annotated-NewSchoolSite.jpg.pdf)
 - [Model Builder_New School Site with Existing Road](model_builder/annotated-NewSiteExistingRoad.jpg.pdf)
-- [Model Builder_New School Site with Portion of Existing Road](http://example.com/)
+- [Model Builder_New School Site with Portion of Existing Road](model_builder/annotated-NewSchoolSiteWithPortionOfExistingRoad.jpg.pdf)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
