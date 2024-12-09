@@ -71,29 +71,26 @@ Creating a common platform for the community and law enforcement agency was the 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1; min-width: 150px;">
     <ul>
-      <li>Python</li>
-      <li>ArcPy</li>
-      <li>GeoPandas</li>
       <li>ArcGIS</li>
       <li>AutoCAD</li>
-    </ul>
-  </div>
-  <div style="flex: 1; min-width: 150px;">
-    <ul>
-      <li>Adobe Photoshop</li>
-      <li>SketchUp</li>
-      <li>Adobe Illustrator</li>
-      <li>V-Ray</li>
+      <li>Python</li>
       <li>Lumion</li>
     </ul>
   </div>
   <div style="flex: 1; min-width: 150px;">
     <ul>
+      <li>Adobe Photoshop</li>
+      <li>Adobe Illustrator</li>
       <li>Adobe InDesign</li>
+      <li>Microsoft Office</li>
+    </ul>
+  </div>
+  <div style="flex: 1; min-width: 150px;">
+    <ul>
+      <li>SketchUps</li>
       <li>Revit</li>
-      <li>Blender</li>
-      <li>SolidWorks</li>
-      <li>Unity</li>
+      <li>V-Ray</li>
+      <li>Enscape</li>
     </ul>
   </div>
 </div>
