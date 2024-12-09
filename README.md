@@ -186,7 +186,7 @@ The final element.
 ### Category Name 1 
 
 [Data Scraping from Open Street Map](/sample_page)
-<img src="Fetching_Online_Data_OSM.ipynb"/>
+<img src="https://github.com/atarannum/Fetching_Online_Data_OSM.git"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
