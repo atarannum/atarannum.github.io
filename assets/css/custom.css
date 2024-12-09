@@ -1,4 +1,4 @@
-img {
+img[src='/assets/img/HEADSHOT.jpg'] {
   border-radius: 50%;       /* This will make the image circular */
   width: 150px;             /* Set the desired size (width) */
   height: 150px;            /* Set the height equal to the width */
