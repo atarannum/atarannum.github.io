@@ -108,7 +108,7 @@ In this section, I have demostrated diffeent scripts that I have worked so far. 
 
 
 
-### Header 3
+### Highlights
 
 ```js
 // Javascript code with syntax highlighting.
@@ -140,12 +140,23 @@ end
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+### [CherryOnTree](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+        <pre>             ,-.
+    ,     ,-.   ,-.
+   / \   (   )-(   )
+   \ |  ,.&gt;-(   )-&lt;
+    \|,' (   )-(   )
+     Y ___`-'   `-'
+     |/__/   `-'
+     |
+     |
+     |    -hrr-
+  ___|_____________
+</pre>
 ---
 
-### Category Name 2
+### Other Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
