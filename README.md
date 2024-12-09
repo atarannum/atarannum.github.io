@@ -7,7 +7,7 @@ I was awared as runner-up at the American Planning Association Student Design Co
 ---
 
 ## Education
-
+| Degree                                | Institution                 | Year               |
 |:--------------------------------------|:----------------------------|:-------------------|
 | PhD in Urban Affairs                  | University of Memphis at TN | (_2024 – Present_) |
 | Master of City and Regional Planning  | University of Memphis at TN | (_2022 – 2024_)    |
