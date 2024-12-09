@@ -68,32 +68,34 @@ Creating a common platform for the community and law enforcement agency was the 
 
 ## Technical Skill
 
-<div style="display: flex; gap: 20px;">
-
- !-- First Column -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1; min-width: 150px;">
-    * ArcGIS  
-    * AutoCAD    
-    * Lumion   
-    * Python
+    <ul>
+      <li>Python</li>
+      <li>ArcPy</li>
+      <li>GeoPandas</li>
+      <li>ArcGIS</li>
+      <li>AutoCAD</li>
+    </ul>
   </div>
-
-  <!-- Second Column -->
   <div style="flex: 1; min-width: 150px;">
-    * Adobe Photoshop  
-    * Adobe Illustrator  
-    * Adobe InDesign  
-    * Microsoft Office    
+    <ul>
+      <li>Adobe Photoshop</li>
+      <li>SketchUp</li>
+      <li>Adobe Illustrator</li>
+      <li>V-Ray</li>
+      <li>Lumion</li>
+    </ul>
   </div>
-
-   <!-- Third Column -->
   <div style="flex: 1; min-width: 150px;">
-    * SketchUp  
-    * Revit  
-    * V-Ray  
-    * Enscape    
+    <ul>
+      <li>Adobe InDesign</li>
+      <li>Revit</li>
+      <li>Blender</li>
+      <li>SolidWorks</li>
+      <li>Unity</li>
+    </ul>
   </div>
-
 </div>
  
 # Adv. GIS Course
