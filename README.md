@@ -1,3 +1,7 @@
+Hello, my name is Afsana Tarannum. I am a doctoral student, studying Urban Affairs at the University of Memphis. Currently I am working as a graduate assistant. I earned a Bachelor of Architecture from the University of Asia Pacific and then obtained a master’s degree in Urban and Regional Planning from Bangladesh University of Engineering and Technology. Simultaneously I worked for an architecture firm. Afterward, I moved to the United States, where I completed a master's degree in City and Regional Planning at the University of Memphis and also worked with Self+Tucker Architects. 
+
+I was awared as runner-up at the American Planning Association Student Design Competition in 2023 and also received the Outstanding Student Project Award from the Tennessee Chapter of the American Planning Association in 2023. My research interests are nightlife vitality, age-friendly development, and accessible public space.
+
 # atarannum.github.io
 # Project Title
 ## Adv. GIS course final project
