@@ -140,7 +140,7 @@ end
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-### [CherryOnTree](CherryOnTree)
+### [CherryOnTree](https://github.com/atarannum/Adv.-GIS-Repository.git)
 
                     ,-.
     ,     ,-.   ,-.
