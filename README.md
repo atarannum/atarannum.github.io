@@ -68,10 +68,30 @@ Creating a common platform for the community and law enforcement agency was the 
 
 ## Technical Skill
 
-* ArcGIS	    * Adobe Photoshop 	   * SketchUp
-* AutoCAD	    * Adobe Illustrator    * V-Ray
-* Lumion	    * Adobe InDesign	     * Revit
-* Python 	    * Microsoft Office     * 3ds Max
+<div style="display: flex; gap: 20px;">
+
+  <div style="flex: 1; min-width: 150px;">
+    * ArcGIS  
+    * AutoCAD    
+    * Lumion   
+    * Python
+  </div>
+
+  <div style="flex: 1; min-width: 150px;">
+    * Adobe Photoshop  
+    * Adobe Illustrator  
+    * Adobe InDesign  
+    * Microsoft Office    
+  </div>
+
+  <div style="flex: 1; min-width: 150px;">
+    * SketchUp  
+    * Revit  
+    * V-Ray  
+    * Enscape    
+  </div>
+
+</div>
  
 # Adv. GIS Course
 
