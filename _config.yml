@@ -6,5 +6,4 @@ theme: jekyll-theme-minimal
 extra_css:
   - "/assets/css/custom.css" 
   
-<!-- HTML to style the image as a circle using inline CSS -->
-<img src="/assets/images/HEADSHOT.jpg" alt="My Headshot" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+
