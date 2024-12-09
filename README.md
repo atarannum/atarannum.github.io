@@ -15,7 +15,7 @@ I was awared as runner-up at the American Planning Association Student Design Co
 | Master of Urban and Regional Planning |  BUET at Dhaka              | (_2018 – 2022_)    | 
 | Bachelor of Architecture              | UAP at Dhaka                | (_2018 – 2022_)    |
 
-
+---
 
 ## Research Experience
 ### **‘Night Life Reimagined – Designing Infill Module to Accommodate Positive Nightlife’**
