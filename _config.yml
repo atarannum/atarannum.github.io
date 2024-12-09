@@ -5,3 +5,12 @@ theme: jekyll-theme-minimal
 extra_css:
   - "assets/css/custom.css"
 
+navigation:
+  - title: Home
+    slug: /
+  - title: Blog
+    slug: /blog
+  - title: About
+    slug: /company/about
+  - title: Contact
+    slug: /company/contact
