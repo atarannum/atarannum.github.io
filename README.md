@@ -66,6 +66,12 @@ Creating a common platform for the community and law enforcement agency was the 
 
 ---
 
+## Technical Skill
+- ArcGIS	     - Adobe Photoshop 	   - SketchUp
+-	AutoCAD	     - Adobe Illustrator   - V-Ray
+-	Lumion	     - Adobe InDesign	     - Revit
+-	Python 	     - Microsoft Office	   - 3ds Max
+
 # Adv. GIS Course
 
 In this section, I have demostrated diffeent scripts that I have worked so far. The Adv. GIS Repository is composite of branches where different scripts are store.
