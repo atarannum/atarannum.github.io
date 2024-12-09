@@ -2,19 +2,23 @@ Hello, my name is Afsana Tarannum. I am a doctoral student, studying Urban Affai
 
 I was awared as runner-up at the American Planning Association Student Design Competition in 2023 and also received the Outstanding Student Project Award from the Tennessee Chapter of the American Planning Association in 2023. My research interests are nightlife vitality, age-friendly development, and accessible public space.
 
-|:--------------------------------------------|:-----------------------------|:-------------------|
+---
+
+---
 
 ## Education
 
 
 |  PhD in Urban Affairs                      | University of Memphis at TN     | (_2024 – Present_)         |
 
-|  Master of City and Regional Planning      | niversity of Memphis at TN      | (_2022 – 2024_)            |
+|  Master of City and Regional Planning      | University of Memphis at TN     | (_2022 – 2024_)            |
 
 |  Master of Urban and Regional Planning     | BUET at Dhaka                   | (_2018 – 2022_)            |
 
 |  Bachelor of Architecture                  | UAP at Dhaka                    | (_2018 – 2022_)            | 
 
+
+---
 
 ---
 
@@ -52,6 +56,8 @@ Creating a common platform for the community and law enforcement agency was the 
 
 ---
 
+---
+
 ## Work Experience
 > **Graduate Assistant** (_September, 2024 – Present_) at University of Memphis, Memphis, TN
   
@@ -60,6 +66,8 @@ Creating a common platform for the community and law enforcement agency was the 
 > **Graduate Assistant** (_September, 2022 – April, 2023_) at University of Memphis, Memphis, TN
 
 > **Junior Architect** (_July, 2017 – May, 2019_) at Tanya Karim N. R. Khan & Associates, Dhaka, Bangladesh 
+
+---
 
 ---
 
