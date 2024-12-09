@@ -9,7 +9,7 @@ I was awared as runner-up at the American Planning Association Student Design Co
 - Bachelor of Architecture | University of Asia Pacific at Dhaka (_2011 – 2017_)
 
 # Research Experience
-- **‘Night Life Reimagined – Designing Infill Module to Accommodate Positive Nightlife’**
+## **‘Night Life Reimagined – Designing Infill Module to Accommodate Positive Nightlife’**
 
 The focus of this research was to identify the positive nighttime activities and places to accommodate positive nightlife activities in the Jackson Planning District. The paper also aimed to create an infill development module to accommodate the positive nightlife identified.
 
@@ -51,16 +51,13 @@ Creating a common platform for the community and law enforcement agency was the 
 
 
 
-# Adv. GIS Course - Final Project
+# Adv. GIS Course
 
-In this section, I have demostrated diffeent scripts that I have worked so far.
+In this section, I have demostrated diffeent scripts that I have worked so far. The Adv. GIS Repository is composite of branches where different scripts are store.
 
-- [Adv. GIS Repository](https://github.com/atarannum/Adv.-GIS-Repository.git)
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[Adv. GIS Repository](https://github.com/atarannum/Adv.-GIS-Repository.git)
+
 
 [Link to another page](./another-page.html).
 
