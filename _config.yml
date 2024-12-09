@@ -3,5 +3,6 @@ logo: "assets/HEADSHOT.jpg"
 description: Doctoral Student | Urban Affairs 
 theme: jekyll-theme-minimal
 
-
+extra_css:
+  - "assets/css/custom.css"
   
