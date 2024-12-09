@@ -159,9 +159,9 @@ end
 
 ### Other Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Model Builder_New School Site](http://example.com/)
+- [Model Builder_New School Site with Existing Road](http://example.com/)
+- [Model Builder_New School Site with Portion of Existing Road](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
