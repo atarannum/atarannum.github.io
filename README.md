@@ -79,7 +79,7 @@ Creating a common platform for the community and law enforcement agency was the 
   </div>
   <div style="flex: 1; min-width: 150px;">
     <ul>
-      <li>Adobe Photoshop</li>
+      <li>Photoshop</li>
       <li>Adobe Illustrator</li>
       <li>Adobe InDesign</li>
       <li>Microsoft Office</li>
