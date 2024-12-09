@@ -167,7 +167,7 @@ end
 
 ---
 
-### For more scripting visit
+### For more scripting, please visit
 
 [Adv. GIS Repository](https://github.com/atarannum/Adv.-GIS-Repository.git)
 
