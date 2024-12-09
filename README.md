@@ -140,7 +140,7 @@ end
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-### [CherryOnTree](http://example.com/)
+### [CherryOnTree](CherryOnTree)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
         <pre>             ,-.
     ,     ,-.   ,-.
