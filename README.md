@@ -126,7 +126,7 @@ end
 ```
 
 
-## Portfolio
+## Projects
 
 ---
 
