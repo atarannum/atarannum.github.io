@@ -159,7 +159,7 @@ end
 
 ### Other Projects
 
-- [Model Builder_New School Site](http://example.com/)
+- [Model Builder_New School Site](model_builder/annotated-NewSchoolSite.jpg.pdf)
 - [Model Builder_New School Site with Existing Road](http://example.com/)
 - [Model Builder_New School Site with Portion of Existing Road](http://example.com/)
 - [Project 4 Title](http://example.com/)
