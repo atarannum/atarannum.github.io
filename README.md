@@ -42,12 +42,19 @@ Creating a common platform for the community and law enforcement agency was the 
 
 # Work Experience
 - **Graduate Assistant** (_September, 2024 – Present_)
-University of Memphis, Memphis, TN
-- **Intern Architect** (_May 2023 – August 2024_) 
+
+- University of Memphis, Memphis, TN
+  
+- **Intern Architect** (_May 2023 – August 2024_)
+  
 Self+Tucker Architects, Memphis, TN
+
 - **Graduate Assistant** (_September, 2022 – April, 2023_)
+  
 University of Memphis, Memphis, TN
+
 - **Junior Architect** (_July, 2017 – May, 2019_)
+  
 Tanya Karim N. R. Khan & Associates, Dhaka, Bangladesh 
 
 
