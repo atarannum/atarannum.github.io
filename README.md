@@ -132,7 +132,7 @@ end
 
 ### Category Name 1 
 
-[Data Scraping from Open Street Map](https://github.com/atarannum/Fetching_Online_Data_OSM.git)
+# [Data Scraping from Open Street Map](https://github.com/atarannum/Fetching_Online_Data_OSM.git)
 <img src="assets/img/Data-scraping-1-1200x630.png"/>
 
 ---
