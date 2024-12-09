@@ -1,6 +1,6 @@
-img {
-  border-radius: 50%;   /* Make the image circular */
-  width: 150px;         /* Set the width */
-  height: 150px;        /* Set the height */
-  object-fit: cover;    /* Ensures the image covers the circle properly */
+imgages {
+  border-radius: 50%;   
+  width: 150px;         
+  height: 150px;        
+  object-fit: cover;    
 }
