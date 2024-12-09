@@ -1,1 +1,1 @@
-![My Headshot](assets/images/HEADSHOT.jpg){: .circle-image }
+(assets/images/HEADSHOT.jpg){: .circle-image }
