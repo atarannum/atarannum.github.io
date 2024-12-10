@@ -1,0 +1,17 @@
+def factorialNumber(UserInput):   
+    factorial = 1
+    for i in range(UserInput):
+        factorial *= (i+1)
+    return(factorial)
+    
+factorialNumber(UserInput = int(input("Enter your number: ")))  
+
+
+def Fac():
+    user = int(input("Enter your number: "))
+    factor = 1
+    for i in range(user):
+        factor *= i+1
+    return factor
+        
+Fac()
