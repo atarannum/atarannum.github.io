@@ -137,10 +137,7 @@ end
 <img src="assets/img/Data-scraping-1-1200x630.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 ### [CherryOnTree](https://github.com/atarannum/Adv.-GIS-Repository.git)
 
     ,-.
@@ -157,6 +154,35 @@ end
 
 ---
 
+## Are you cold? What's the temperature?
+[Temperature Evaluation Script ](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+## Do you want to play a game? Let play...
+[Rock, Paper, Scissors](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### [CherryOnTree](https://github.com/atarannum/Adv.-GIS-Repository.git)
+
+    ,-.
+    ,  ,-.   ,-.
+   / \  (   )-(   )
+   \ |  ,.-(   );
+    \|,'(   )-(   )
+     Y___`-'   `-'
+     |/__/  `-'
+     |
+     |
+     |
+     |__|_____________
+
+---
+
+
+
+
 ## Model Builder
 
 - [Model Builder_New School Site](model_builder/annotated-NewSchoolSite.jpg.pdf)
@@ -165,13 +191,13 @@ end
 
 ---
 
+---
+
 ### Other Projects
 
 - [Interactive Game - Kitchen Conundrum](Other Projects/Kitchen Conundrums.html)
 - [Story Map - Bengali Language Movement](https://storymaps.arcgis.com/stories/f8f6c81673f045748a678c0a92286ab7)
 - [Timeline - Bangladesh Liberation War](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=12SmUCeM7UfwuzooLFEIW1EAJSlPhtKKr6CIMS5_s02o&font=Default&lang=en&initial_zoom=2&height=650)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
