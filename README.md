@@ -167,7 +167,7 @@ end
 
 ### Other Projects
 
-- [Interactive Game - Kitchen Conundrum](file:///G:/STUDY/UofM/STORYTELLING/INTERACTIVE%20STORYTELLING/Kitchen%20Conundrums.html)
+- [Interactive Game - Kitchen Conundrum](Other Projects/Kitchen Conundrums.html)
 - [Model Builder_New School Site with Existing Road](model_builder/annotated-NewSiteExistingRoad.jpg.pdf)
 - [Model Builder_New School Site with Portion of Existing Road](model_builder/annotated-NewSchoolSiteWithPortionOfExistingRoad.jpg.pdf)
 - [Project 4 Title](http://example.com/)
