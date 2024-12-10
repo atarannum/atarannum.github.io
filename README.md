@@ -178,7 +178,8 @@ After all 100 games are played, the program prints the percentage of games that 
 Use the following script for identifying the factorial number.
 
 ```js
-// Funtion for finding the factorial umber.
+// Funtion for finding the factorial number.
+
 def factorialNumber(UserInput):   
     factorial = 1
     for i in range(UserInput):
@@ -197,6 +198,13 @@ def Fac():
 Fac()
 ```
 
+---
+
+### Need to batch reproject? But do not want to use arcpy?
+
+Use the following link to find out the scripting!
+
+### [Batch Reprojection (not using arcpy)](Other Projects/Rock, Paper, Scissors)
 
 ## Model Builder
 
