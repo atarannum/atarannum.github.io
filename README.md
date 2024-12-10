@@ -242,17 +242,9 @@ Use the following link to find out the scripting!
 
 ---
 
-## Model Builder
-
-- [Model Builder_New School Site](model_builder/annotated-NewSchoolSite.jpg.pdf)
-- [Model Builder_New School Site with Existing Road](model_builder/annotated-NewSiteExistingRoad.jpg.pdf)
-- [Model Builder_New School Site with Portion of Existing Road](model_builder/annotated-NewSchoolSiteWithPortionOfExistingRoad.jpg.pdf)
-
----
-
 ### What is the total population of US?
 
-### [Script for calculation total population](https://github.com/atarannum/atarannum.github.io/blob/c0470ad44b94a36a51c55c182891355361b6de2e/Other%20Projects/Calculate%20Total%20Population%20with%20Search%20Cursor)
+### [Script for Calculating Total Population](https://github.com/atarannum/atarannum.github.io/blob/c0470ad44b94a36a51c55c182891355361b6de2e/Other%20Projects/Calculate%20Total%20Population%20with%20Search%20Cursor)
 
 ---
 
@@ -269,7 +261,17 @@ Find the script below.
 > Bonous
 > The script also shows how to calculate the population density and update the field.
 
-### [Add a new Field](https://github.com/atarannum/atarannum.github.io/blob/391d7e5e67361db26486bd8e780e0764f362a522/Other%20Projects/Add%20a%20new%20Field%20and%20Calculate%20Population%20Density%20with%20Update%20Cursor)
+### [How to Add a New Field](https://github.com/atarannum/atarannum.github.io/blob/391d7e5e67361db26486bd8e780e0764f362a522/Other%20Projects/Add%20a%20new%20Field%20and%20Calculate%20Population%20Density%20with%20Update%20Cursor)
+
+---
+
+---
+
+## Model Builder
+
+- [Model Builder_New School Site](model_builder/annotated-NewSchoolSite.jpg.pdf)
+- [Model Builder_New School Site with Existing Road](model_builder/annotated-NewSiteExistingRoad.jpg.pdf)
+- [Model Builder_New School Site with Portion of Existing Road](model_builder/annotated-NewSchoolSiteWithPortionOfExistingRoad.jpg.pdf)
 
 ---
 
