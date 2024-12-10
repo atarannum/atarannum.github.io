@@ -161,7 +161,7 @@ end
 ---
 
 ## Do you want to play a game? Let play...
-[Rock, Paper, Scissors](/pdf/sample_presentation.pdf)
+[Rock, Paper, Scissors](Other Projects/Rock, Paper, Scissors)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### [CherryOnTree](https://github.com/atarannum/Adv.-GIS-Repository.git)
