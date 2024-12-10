@@ -1,10 +1,7 @@
 title: Afsana Tarannum
 logo: "assets/img/WhatsApp Image 2024-12-09 at 09.25.33_e80e3bd2-modified.png"
 description: Doctoral Student | Urban Affairs 
-theme: jekyll-theme-minimal
-extra_css:
-  - "assets/css/custom.css"
-
+# theme: jekyll-theme-minimal
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
