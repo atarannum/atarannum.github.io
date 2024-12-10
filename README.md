@@ -155,6 +155,8 @@ from shapely.geometry import Point
 
 ---
 
+---
+
 ## Projects
 
 This section highlights a variety of projects to showcase my diverse skill set. It has scrpiting, model building and other projects.
