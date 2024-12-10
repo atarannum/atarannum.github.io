@@ -209,6 +209,8 @@ After all 100 games are played, the program prints the percentage of games that 
 
 Use the following script for identifying the factorial number.
 
+[Find the Prime Number](Other Projects/Fac num)
+
 ```js
 // Funtion for finding the factorial number.
 
