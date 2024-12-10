@@ -209,7 +209,7 @@ After all 100 games are played, the program prints the percentage of games that 
 
 Use the following script for identifying the factorial number.
 
-### [Find the Prime Number](Other Projects/Fac num)
+### [Find the Prime Number](https://github.com/atarannum/atarannum.github.io/blob/84b149a25ed13e6a18317b92564bbf197f5c7f7f/Other%20Projects/Fac%20num)
 
 ```js
 // Funtion for finding the factorial number.
