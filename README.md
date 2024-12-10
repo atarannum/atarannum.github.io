@@ -155,13 +155,14 @@ end
 ---
 
 ## Are you cold? What's the temperature?
-[Temperature Evaluation Script ](Other Projects/Temp. Eva)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## [Temperature Evaluation Script ](Other Projects/Temp. Eva)
+
+This script prompts the user to enter a temperature and the program tells whether it is too hot, too cold or it's just right! 
 
 ---
 
 ## Do you want to play a game? Let play...
-[Rock, Paper, Scissors](Other Projects/Rock, Paper, Scissors)
+## [Rock, Paper, Scissors](Other Projects/Rock, Paper, Scissors)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
