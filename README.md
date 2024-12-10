@@ -168,8 +168,8 @@ end
 ### Other Projects
 
 - [Interactive Game - Kitchen Conundrum](Other Projects/Kitchen Conundrums.html)
-- [Model Builder_New School Site with Existing Road](model_builder/annotated-NewSiteExistingRoad.jpg.pdf)
-- [Model Builder_New School Site with Portion of Existing Road](model_builder/annotated-NewSchoolSiteWithPortionOfExistingRoad.jpg.pdf)
+- [Story Map](https://storymaps.arcgis.com/stories/f8f6c81673f045748a678c0a92286ab7)
+- [Timeline](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=12SmUCeM7UfwuzooLFEIW1EAJSlPhtKKr6CIMS5_s02o&font=Default&lang=en&initial_zoom=2&height=650)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
