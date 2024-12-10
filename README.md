@@ -164,23 +164,7 @@ end
 [Rock, Paper, Scissors](Other Projects/Rock, Paper, Scissors)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### [CherryOnTree](https://github.com/atarannum/Adv.-GIS-Repository.git)
-
-    ,-.
-    ,  ,-.   ,-.
-   / \  (   )-(   )
-   \ |  ,.-(   );
-    \|,'(   )-(   )
-     Y___`-'   `-'
-     |/__/  `-'
-     |
-     |
-     |
-     |__|_____________
-
 ---
-
-
 
 
 ## Model Builder
