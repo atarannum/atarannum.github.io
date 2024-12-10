@@ -162,7 +162,7 @@ from shapely.geometry import Point
 
 ## Scripting
 
-### [Data Scraping from Open Street Map](https://github.com/atarannum/Fetching_Online_Data_OSM.git)
+### [Data Scraping from Open Street Map](Fetching_Online_Data_OSM.ipynb)
 <img src="assets/img/Data-scraping-1-1200x630.png"/>
 
 This script gathers data from OpenStreetMap and help visualize different amenities amenities across U.S. states (like restaurants, parks, schools, hospitals, etc.). The idea is if a user enters the name of a state and the types of amenities they are interested in, the code will fetch the relevant data and plot it on a map. It pulls data from OpenStreetMap using a query system based on the state’s geographical boundaries. The result is a colorful map showing each amenity type in a different color.
