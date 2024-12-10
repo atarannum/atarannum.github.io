@@ -110,19 +110,47 @@ In this section, I have demostrated diffeent scripts that I have worked so far. 
 
 ### Highlights
 
+Special factors or a part of the coding from the final project is illustraded here. This final project involves the development of a Python script that allows users to input specific amenities and select a state from which to plot the data. The program will fetch data from OpenStreetMap and plot the map.
+
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+// Use of Overpass API to Fetch OpenStreetMap Data.
+
+def get_amenities(amenity, bbox):
+    # Overpass API URL
+    overpass_url = "http://overpass-api.de/api/interpreter"
+    
+    # Overpass query to fetch data for the given amenity within the state's bounding box
+    query = f'[out:json]; node["amenity"="{amenity}"]({bbox[0]},{bbox[1]},{bbox[2]},{bbox[3]}); out body;'
+    
+    # Send the request to the API
+    response = requests.get(overpass_url, params={'data': query})
+
+- This allows to retrieve real-time data from OpenStreetMap based on user-defined parameters.
+
+- The script uses bounding boxes for specific states to limit the area from which the data is fetched. This means the data is not arbitrarily fetched but is constrained to the area of interest.
+
+- The script is interactive and user-friendly. It allows the user to specify the state and types of amenities to visualize.
+
 ```
 
 ```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+# Visualization
+
+import requests
+import geopandas as gpd
+import matplotlib.pyplot as plt
+from shapely.geometry import Point
+
+- This script takes the geographic coordinates from OpenStreetMap and uses librries such as GeoPandas and Shapely to manipulate and visualize the data on a map.
+
+# Create a GeoDataFrame to store the data
+            gdf = gpd.GeoDataFrame({'amenity': [amenity]*len(geometry)}, geometry=geometry)
+
+            # Plot the amenity on the map with its specific color
+            gdf.plot(ax=ax, marker='o', color=colors.get(amenity, 'black'), label=amenity, markersize=5)
+
+- It is not just fetching data, the user could also handling it spatially and visualizing it in a map format.
+
 ```
 
 ---
