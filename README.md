@@ -139,7 +139,7 @@ end
 
 ---
 
-### [CherryOnTree](https://github.com/atarannum/Adv.-GIS-Repository.git)
+### [Hi Ho Cherrie-O!!!](https://github.com/atarannum/Adv.-GIS-Repository.git)
 
     ,-.
     ,  ,-.   ,-.
@@ -204,7 +204,7 @@ Fac()
 
 Use the following link to find out the scripting!
 
-### [Batch Reprojection (not using arcpy)](Other Projects/Rock, Paper, Scissors)
+### [Batch Reprojection (not using arcpy)](Other Projects/Batch Reprojection.pdf)
 
 ## Model Builder
 
