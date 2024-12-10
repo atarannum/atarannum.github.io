@@ -1,0 +1,14 @@
+shapefile_path = "STATES.shp"
+# Add a new field called "POP_DENSITY" (type FLOAT) to the shapefile
+arcpy.management.AddField(shapefile_path, "POP_DENSTY", "FLOAT")
+# Use an UpdateCursor to calculate population density for each state
+with arcpy.da.UpdateCursor(shapefile_path, ['POP1990', 'SHAPE@AREA', 'POP_DENSTY']) as cursor:
+    for row in cursor:
+        population = row[0]  # Population from POP1990 field
+        area = row[1]  # Area from SHAPE@AREA         
+        # Calculate the population density
+        if area > 0:  
+            pop_density = population / area
+        # Update the POP_DENSITY field 
+        cursor.updateRow(row)  
+print("Population density calculated and updated for all states.")
