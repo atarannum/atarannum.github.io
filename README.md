@@ -173,6 +173,30 @@ After all 100 games are played, the program prints the percentage of games that 
 
 ---
 
+### Math is hard!
+
+Use the following script for identifying the factorial number.
+
+```js
+// Funtion for finding the factorial umber.
+def factorialNumber(UserInput):   
+    factorial = 1
+    for i in range(UserInput):
+        factorial *= (i+1)
+    return(factorial)
+    
+factorialNumber(UserInput = int(input("Enter your number: ")))  
+
+def Fac():
+    user = int(input("Enter your number: "))
+    factor = 1
+    for i in range(user):
+        factor *= i+1
+    return factor
+        
+Fac()
+```
+
 
 ## Model Builder
 
