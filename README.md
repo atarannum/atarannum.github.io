@@ -130,8 +130,9 @@ end
 ## Projects
 
 ---
+---
 
-### Scripting
+## Scripting
 
 ### [Data Scraping from Open Street Map](https://github.com/atarannum/Fetching_Online_Data_OSM.git)
 <img src="assets/img/Data-scraping-1-1200x630.png"/>
@@ -154,16 +155,21 @@ end
 
 ---
 
-## Are you cold? What's the temperature?
-## [Temperature Evaluation Script ](Other Projects/Temp. Eva)
+### Are you cold? What's the temperature?
+### [Temperature Evaluation Script ](Other Projects/Temp. Eva)
 
 This script prompts the user to enter a temperature and the program tells whether it is too hot, too cold or it's just right! 
 
 ---
 
-## Do you want to play a game? Let play...
-## [Rock, Paper, Scissors](Other Projects/Rock, Paper, Scissors)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Do you want to play a game? Let play...
+### [Rock, Paper, Scissors](Other Projects/Rock, Paper, Scissors)
+
+The script simulates a Rock, Paper, Scissors game between two computer players. 
+
+It  simulates 100 games between Player A and Player B. It tracks and prints how many games Player A wins, how many Player B wins, and how many games end in a draw.
+
+After all 100 games are played, the program prints the percentage of games that were draws.
 
 ---
 
