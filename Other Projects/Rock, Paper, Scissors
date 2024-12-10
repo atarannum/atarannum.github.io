@@ -3,16 +3,17 @@ playerA_win = 0
 playerB_win = 0
 draw = 0
 for i in range(100):
-playerA = random.choice(game)
-playerB = random.choice(game)
+  playerA = random.choice(game)
+  playerB = random.choice(game)
 if playerA == playerB :
-draw += 1
+  draw += 1
 elif (playerA == "Rock" and playerB == "Scissors") or \
-(playerA == "Paper" and playerB == "Rack") or \
-(playerA == "Scissors" and playerB == "Paper"):
-playerA_win += 1
+  (playerA == "Paper" and playerB == "Rack") or \
+  (playerA == "Scissors" and playerB == "Paper"):
+  playerA_win += 1
 else:
-playerB_win += 1
+  playerB_win += 1
 print(f"Player A won {playerA} games, Player B won {playerB} games.")
+
 drawPercentage = (draw / 100) * 100
 print(f"Draw game percentage out of 100 games in {drawPercentage} %")
