@@ -1,0 +1,8 @@
+# Defining path to shapefile
+shapefile_path = r"G:\STUDY\PHD\ADVANCED GIS\EXAM 2\USA (1)\USA (1)\STATES.SHP"
+total_population = 0
+# Using SearchCursor
+with arcpy.da.SearchCursor(shapefile_path, ['POP1990']) as cursor:
+    for row in cursor:      
+        total_population += row[0]
+print(f"Total Population in 1990: {total_population}")
