@@ -266,7 +266,10 @@ Use the following link to find out the scripting!
 
 Find the script below.
 
-### [Add a new Field]
+> Bonous
+> The script also shows how to calculate the population density and update the field.
+
+### [Add a new Field](https://github.com/atarannum/atarannum.github.io/blob/391d7e5e67361db26486bd8e780e0764f362a522/Other%20Projects/Add%20a%20new%20Field%20and%20Calculate%20Population%20Density%20with%20Update%20Cursor)
 
 ---
 
