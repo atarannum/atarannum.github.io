@@ -1,0 +1,11 @@
+while True:
+temperature = int(input("What is the temperature?: "))
+if temperature == 0:
+print("Good Bye")
+break
+if temperature > 100:
+print("It is hot.")
+elif temperature < 60:
+print("It is cold.")
+elif 61 <= temperature <= 99:
+print("It is just right.")
