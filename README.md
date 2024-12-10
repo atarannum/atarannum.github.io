@@ -162,7 +162,7 @@ This script prompts the user to enter a temperature and the program tells whethe
 
 ---
 
-### Do you want to play a game? Let play...
+### Do you want to play a game? Let's play...
 ### [Rock, Paper, Scissors](Other Projects/Rock, Paper, Scissors)
 
 The script simulates a Rock, Paper, Scissors game between two computer players. 
