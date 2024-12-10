@@ -155,7 +155,7 @@ end
 ---
 
 ## Are you cold? What's the temperature?
-[Temperature Evaluation Script ](/pdf/sample_presentation.pdf)
+[Temperature Evaluation Script ](Other Projects/Temp. Eva)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
