@@ -188,7 +188,7 @@ It simulates 1000 games of the Hi Ho! Cherry-O game. In each game, the player sh
 ---
 
 ### Are you cold? What's the temperature?
-### [Temperature Evaluation Script ](Other Projects/Temp. Eva)
+### [Temperature Evaluation Script ](https://github.com/atarannum/atarannum.github.io/blob/aa7be34591be2d18f9ba3d0cbc626ed20f3fbf31/Other%20Projects/Temp.%20Eva)
 
 This script prompts the user to enter a temperature and the program tells whether it is too hot, too cold or it's just right! 
 
