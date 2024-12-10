@@ -250,6 +250,26 @@ Use the following link to find out the scripting!
 
 ---
 
+### What is the total population of US?
+
+### [Script for calculation total population](https://github.com/atarannum/atarannum.github.io/blob/c0470ad44b94a36a51c55c182891355361b6de2e/Other%20Projects/Calculate%20Total%20Population%20with%20Search%20Cursor)
+
+---
+
+### Do you know which states has the largest or smallest population?
+
+### [Script for finding States with Largest and Smallest Population]
+
+---
+
+### Do you know that you can add a field in the arrtibute table without opening ArcGIS?
+
+Find the script below.
+
+### [Add a new Field]
+
+---
+
 ---
 
 ### Other Projects
