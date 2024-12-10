@@ -137,9 +137,12 @@ end
 ### [Data Scraping from Open Street Map](https://github.com/atarannum/Fetching_Online_Data_OSM.git)
 <img src="assets/img/Data-scraping-1-1200x630.png"/>
 
+
 ---
 
 ### [Hi Ho Cherrie-O!!!](https://github.com/atarannum/Adv.-GIS-Repository.git)
+
+It simulates 1000 games of the Hi Ho! Cherry-O game. In each game, the player should start with 10 cherries, and the goal is to remove all cherries from the tree based on random spinner outcomes. The game ends when there are no cherries left on the tree. After running 1000 simulations, the program also calculates and return the average number of attempts it takes to win the game.
 
     ,-.
     ,  ,-.   ,-.
@@ -205,6 +208,8 @@ Fac()
 Use the following link to find out the scripting!
 
 ### [Batch Reprojection (not using arcpy)](Other Projects/Batch Reprojection.pdf)
+
+---
 
 ## Model Builder
 
