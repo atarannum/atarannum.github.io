@@ -5,4 +5,7 @@ theme: jekyll-theme-minimal
 extra_css:
   - "assets/css/custom.css"
 
-
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
